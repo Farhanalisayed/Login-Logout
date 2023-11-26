@@ -1,0 +1,23 @@
+/* Write your CSS here */
+@media (max-width:767px){
+    .card{
+    background-image:linear-gradient(to bottom, #303150, #b5b9ff);
+    background-size:cover;
+    height:100vh;
+    border-radius: 12px;
+    max-width:400px;
+}
+}
+@media (min-width:767px){
+    .card{
+    background-image:linear-gradient(to bottom, #303150, #b5b9ff);
+    background-size:cover;
+    border-radius: 12px;
+    max-width:600px;
+}
+}
+.the-home{
+    background-color: #f8fafc;
+    background-size: cover;
+    height:100vh;
+}

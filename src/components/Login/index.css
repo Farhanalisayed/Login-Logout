@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.button {
+  color: #303150;
+  background-color: #f8fafc;
+  width: 50px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 0px solid;
+}
